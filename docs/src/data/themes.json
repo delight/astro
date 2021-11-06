@@ -45,10 +45,10 @@
     {
       "name": "Portfolio-svelte",
       "description": "A portfolio theme using Svelte components, perfect for your personal or professional online portfolio.",
-      "github": "https://github.com/snowpackjs/astro/tree/main/examples/portfolio-svelte",
+      "github": "https://github.com/snowpackjs/astro/tree/main/examples/portfolio_svelte",
       "demo": null,
-      "sandbox": "https://github.dev/snowpackjs/astro/tree/main/examples/portfolio-svelte",
-      "command": "npm init astro -- --template portfolio-svelte"
+      "sandbox": "https://github.dev/snowpackjs/astro/tree/main/examples/portfolio_svelte",
+      "command": "npm init astro -- --template portfolio_svelte"
     },
     {
       "name": "Minimal",
